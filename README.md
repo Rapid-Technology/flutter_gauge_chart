@@ -1,4 +1,4 @@
-# flutter_gauge_chart
+# Flutter Gauge Chart
 
 A new Flutter project.
 
